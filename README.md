@@ -12,5 +12,5 @@ Salary Estimate\
 Location\
 Company Rating\
 Job Description\
-and more.
+and more.\
 ![image](https://user-images.githubusercontent.com/20988056/129428118-67f74557-cc96-4322-ae8a-8d205fd5eda0.png)
